@@ -1,0 +1,6 @@
+G:\My Drive\Forms\FarmingEm\FarmingEm\obj\Debug\FarmingEm.csprojResolveAssemblyReference.cache
+G:\My Drive\Forms\FarmingEm\FarmingEm\obj\Debug\FarmingEm.Form1.resources
+G:\My Drive\Forms\FarmingEm\FarmingEm\obj\Debug\FarmingEm.Properties.Resources.resources
+G:\My Drive\Forms\FarmingEm\FarmingEm\obj\Debug\FarmingEm.Start.resources
+G:\My Drive\Forms\FarmingEm\FarmingEm\obj\Debug\FarmingEm.csproj.GenerateResource.cache
+G:\My Drive\Forms\FarmingEm\FarmingEm\obj\Debug\FarmingEm.csproj.CoreCompileInputs.cache
